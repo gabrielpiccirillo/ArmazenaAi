@@ -149,7 +149,23 @@ Projeto desenvolvido pelo Grupo composto por:
 - Thullio Ferreira
 - Gabriel Lucca
 - Guilherme mamada
-- Gabriel Piccirilo
+- Gabriel Piccirillo
 - Carlos Eduardo 
 
 📌 Sistemas de Informação – Uni-FACEF
+
+## 🗃️ Banco de Dados – Responsável: Gabriel Piccirillo
+
+Toda a parte de banco de dados do projeto ArmazenaAi foi estruturada e implementada por Gabriel Piccirillo, incluindo:
+
+- Criação e modelagem dos bancos de dados (SQL Server para dados relacionais e MongoDB para dados não estruturados).
+
+- Itegração entre os bancos e os serviços de back-end, garantindo consistência, escalabilidade e performance.
+
+- Definição das tabelas, coleções e relacionamentos utilizados no sistema.
+
+- Configuração de conexões seguras e padronizadas entre o back-end (Node.js + Express) e os bancos de dados.
+
+- Apoio na definição das regras de negócio relacionadas a movimentações de estoque e registros históricos.
+
+Essa integração foi essencial para garantir a robustez do sistema e permitir que o ArmazenaAi combine o melhor dos mundos relacional e NoSQL, unindo segurança, performance e flexibilidade.
